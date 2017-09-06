@@ -7,9 +7,11 @@ evaluating, one of them can randomly pick one picture from test datas and judge 
 datas and calculate the final accuracy of testing.
 
 In this version, we first train with 1024 pictures, then test with 255 different pictures, and we only get an bad accuracy 
-about 51~52%, there is still lot of work to do.
+about **51~52%**, there is still lot of work to do.
 
-Do remember to change those directories to yourselves' in the code.
+**Do remember to change those directories to yourselves' in the code.**
 
 [TensorFlow官网](http://www.tensorflow.org)
+
 [Kevin Xu教学视频](https://www.youtube.com/watch?v=xWiEX6GMYUo&index=4&list=PLnUknG7KBFzqMSDZC1mnYMN0zMoRaH68r)
+
