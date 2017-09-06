@@ -1,3 +1,4 @@
+# First train then test different pictures
 This is the first version, also the simplest.
 
 You should run the training.py first in Spyder, then input "run_training" in the Ipython console, after training finished, 
@@ -10,4 +11,5 @@ about 51~52%, there is still lot of work to do.
 
 Do remember to change those directories to yourselves' in the code.
 
-
+[TensorFlow官网](http://www.tensorflow.org)
+[Kevin Xu教学视频](https://www.youtube.com/watch?v=xWiEX6GMYUo&index=4&list=PLnUknG7KBFzqMSDZC1mnYMN0zMoRaH68r)
